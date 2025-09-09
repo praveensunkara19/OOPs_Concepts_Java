@@ -2,6 +2,7 @@
 
 This repository contains Java programs and resources to understand **Object-Oriented Programming (OOPs)** concepts along with supporting lab work.
 
+* please look into **src** of each folder for .java files. coz i have uploaded the runnable java files form **Eclipse IDE**.
 ## 📂 Repository Structure
 - **Theory_PDFs** → Contains theory material and notes.
 - **A+TA Modules (1,2,3,4,5)** → Module-wise concepts including:
